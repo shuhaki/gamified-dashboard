@@ -28,4 +28,7 @@ This will launch the development server, and you can access your project at http
 Open your browser and go to http://localhost:3000 to see your project in action.
 
 
+video link https://www.loom.com/share/ede7855ad5a54f84aea5362f4f2db9b6?sid=87599101-21db-4ea6-b283-e4d49422dfba
+
+
 
